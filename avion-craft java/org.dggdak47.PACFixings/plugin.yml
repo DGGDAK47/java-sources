@@ -1,0 +1,4 @@
+name: PACFixer
+main: org.dggdak47.PACFixings.PACFixer
+version: 1.12.2
+api-version: 1.13

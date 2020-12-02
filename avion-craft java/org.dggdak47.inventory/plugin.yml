@@ -1,0 +1,9 @@
+name: Inv
+main: org.dggdak47.inventory.Inv
+version: 1.12.2
+api-version: 1.13
+commands:
+    inventory:
+      description: Inventory
+      usage: /inventory
+      aliases: [inv, inventory]

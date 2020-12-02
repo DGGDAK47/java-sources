@@ -1,0 +1,8 @@
+name: MChat
+main: org.dggdak47.mchat.MChat
+version: 0.1
+api-version: 1.13
+depend: [DUtil, MFractions]
+commands:
+    mchat:
+      usage: /mchat

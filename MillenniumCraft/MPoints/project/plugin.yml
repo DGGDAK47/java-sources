@@ -1,0 +1,10 @@
+name: MPoints
+main: org.dggdak47.mpoints.MPoints
+version: 0.1
+api-version: 1.13
+depend: [DUtil, AuthMe, CrackShot, MFractions, Guid]
+commands:
+    mpoints:
+      usage: /mpoints
+    sp:
+      usage: /sp

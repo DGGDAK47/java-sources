@@ -1,0 +1,30 @@
+Inventories:
+  ShopPattern1:
+      Name: "Шаблон магазина 1"
+      ID: 100
+      Size: 54
+      Items:
+      - "Name:Строительные блоки 1|Material:BRICKS|Command:shop open 111|Index:0"
+      - "Name:Строительные блоки 2|Material:STONE_BRICKS|Command:shop open 112|Index:1"
+  Test:
+      Name: "Тесть инвентаря"
+      ID: 0
+      Size: 9
+      Items:
+      - "Name:Вещь1|Material:REDSTONE|Command:null|Index:0"
+      - "Name:Вещь2|Material:BLUE_ICE|Command:help|Index:4|Amount:10|Lore:1~2 ~ 3"
+      - "Name:Вещь3|Material:PACKED_ICE|Command:null|Index:8|Amount:64|Lore:1~2 ~ 3|Flags:HIDE_ATTRIBUTES|Enchants unsafe:DIG_SPEED 1~ARROW_DAMAGE 1"
+      - "Name:Судочка|Material:FISHING_ROD|Command:help|Index:2|Lore:зАЕБИСЬ~УДОЧКА~ЕБАТЬ|Enchants unsafe:DIG_SPEED 1"
+      
+Addition:
+- "150|100|Строительные блоки 1|111"
+- "151|100|Строительные блоки 2|112"
+- "100|0|TEST|500"
+
+RightClickActions:
+- "ЧАсыЁПТЫ|ANVIL|guid test|1"
+
+Text:
+  GUID: "THIS IS GUID!"
+  HaveNoAccess: "You have no access to do that command!!!"
+  WrongCommand: "Wrong!"

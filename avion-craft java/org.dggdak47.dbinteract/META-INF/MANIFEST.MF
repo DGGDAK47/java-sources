@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.mariadb.jdbc
+Bundle-SymbolicName: org.mariadb.jdbc
+Export-Package: org.mariadb.jdbc
+Bundle-Name: mariadb-java-client
+Bundle-Version: 2.2.6
+Built-By: diego
+Bundle-ManifestVersion: 2
+Import-Package: javax.naming,javax.management,javax.net;resolution:=op
+ tional,javax.net.ssl;resolution:=optional,javax.sql,javax.transaction
+ .xa;resolution:=optional,org.slf4j;resolution:=optional
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_151
+

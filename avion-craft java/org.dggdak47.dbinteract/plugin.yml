@@ -1,0 +1,4 @@
+name: dbinteract
+main: org.dggdak47.dbinteract.dbinteract
+version: 1.12.2
+depend: [AuthMe]

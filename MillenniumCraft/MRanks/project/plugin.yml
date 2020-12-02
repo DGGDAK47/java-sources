@@ -1,0 +1,8 @@
+name: MRanks
+main: org.dggdak47.mranks.MRanks
+version: 0.1
+api-version: 1.13
+depend: [DUtil, CrackShot, MFractions, Guid]
+commands:
+    mr:
+      usage: /mr
