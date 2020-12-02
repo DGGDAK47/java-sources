@@ -1,0 +1,5 @@
+name: MMutants
+main: org.dggdak47.mmutants.MMutants
+version: 0.1
+api-version: 1.13
+depend: [DUtil, MFractions, MPoints]

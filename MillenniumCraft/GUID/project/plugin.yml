@@ -1,0 +1,7 @@
+name: Guid
+main: org.dggdak47.guid.Guid
+version: 0.1
+api-version: 1.13
+commands:
+    guid:
+      usage: /guid

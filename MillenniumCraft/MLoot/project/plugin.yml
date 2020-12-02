@@ -1,0 +1,8 @@
+name: MLoot
+main: org.dggdak47.mloot.MLoot
+version: 0.1
+api-version: 1.13
+depend: [DUtil, MRanks]
+commands:
+    mloot:
+      usage: /mloot

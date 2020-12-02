@@ -1,0 +1,5 @@
+name: DUtil
+main: org.dggdak47.dutil.DUtil
+version: 0.1
+api-version: 1.13
+depend: [PermissionsEx]

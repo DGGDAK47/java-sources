@@ -1,0 +1,4 @@
+name: PhantomDisabler
+main: org.dggdak47.phantomDisabler.PhantomDisabler
+version: 1.12.2
+api-version: 1.13

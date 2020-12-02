@@ -1,0 +1,8 @@
+name: MFractions
+main: org.dggdak47.mfractions.MFractions
+version: 0.1
+api-version: 1.13
+depend: [DUtil, AuthMe, CrackShot]
+commands:
+    mf:
+      usage: /mf
